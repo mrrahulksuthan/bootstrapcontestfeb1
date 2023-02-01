@@ -1,0 +1,13 @@
+.nav-item{
+    color: blue;
+}
+
+
+.navbar-brand{
+        display: none;
+}
+
+.card-container{
+    display: inline;
+}
+    
